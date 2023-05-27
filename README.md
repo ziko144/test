@@ -1,0 +1,2 @@
+# test
+Global page
